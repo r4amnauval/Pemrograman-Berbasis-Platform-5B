@@ -10,9 +10,7 @@
 <p>&nbsp;</p>
 
 <div align="center" class="style1">
-
-  <p>REGISTER</p>
-
+  <p>REGISTER</p> 
 </div>
 
 <table width="496" border="0" align="center">
@@ -57,5 +55,7 @@
     <td>&nbsp;</td>
     <td><input type="submit" value="Input" /></td>
   </tr>
-  
 </table>
+<div id="clear"></div>
+<br>
+<a href="?module=lihat">Lihat Daftar Member &RightArrow;</a>

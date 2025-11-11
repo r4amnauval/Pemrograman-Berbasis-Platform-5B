@@ -19,6 +19,7 @@
                 <li><a href="?module=gallery">Galeri</a></li>
                 <li><a href="?module=jadwal">Jadwal</a></li>
                 <li><a href="?module=insert">Insert</a></li>
+                <li><a href="?module=lihat">Daftar Member</a></li>
             </ul>
         </div>
 
